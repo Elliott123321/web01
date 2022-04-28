@@ -1,0 +1,58 @@
+.logo, nav, header, section, aside {
+    margin-bottom: 15px;
+    }
+    .wrapper {
+        width: 1000px;
+        min-height: 500px;
+        margin-left: auto;
+        margin-right: auto;
+    
+    }
+    .logo {
+        background: maroon;
+        width: 300px;
+        height: 50px;
+        float: left;
+
+    }
+    nav {
+        background:rgb(0, 0, 0);
+        width: 300px;
+        height: 50px;
+        float: right;
+
+    }
+    header {
+        width: 100%;
+        background: skyblue;
+        height: 150px;
+
+    }
+    .fix {
+        clear: both ;
+
+    }
+    main {
+        width: 700px;
+        min-height: 400px;
+        float: left;
+
+    }
+    section {
+        width: 100%;
+        height: 250px;
+        background: rgb(22, 238, 14);
+
+    }
+    aside {
+        background: turquoise;
+        width: 250px;
+        height: 400px;
+        float: right;
+
+    }
+    footer {
+        width: 100%;
+        height: 60px;
+        background: springgreen;
+    }
